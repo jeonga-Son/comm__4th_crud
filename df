@@ -1,0 +1,95 @@
+[33mcommit 27f23b9d8e1e1630f174f652c5624a8bb02434f4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 18:01:43 2022 +0900
+
+    게시물 리스트 구현
+
+[33mcommit e0bc12c0238734b7b25969e4f11100710f19a8ec[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:49:44 2022 +0900
+
+    이전글, 다음글에서 블라인드 된 글 거르기
+
+[33mcommit 7b7b0c67fae3d6c9b5d25f97dfad04704283c582[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:44:01 2022 +0900
+
+    다음글 테스트케이스 추가 및 구현
+
+[33mcommit 30d1968622c476ded2d2d81bfd22eea64a749ff1[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:34:18 2022 +0900
+
+    이전글 테스트케이스 추가 및 구현
+
+[33mcommit ebc5eec3246f4c5402d19e4a14c68ff40638650b[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:24:11 2022 +0900
+
+    myMap와 articleService를 인스턴스 변수로, TEST_DATA_SIZE 도입
+
+[33mcommit 36405fd43cc9ab8a4721121da687c21dda42bfae[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:13:56 2022 +0900
+
+    articleService.delete 구현
+
+[33mcommit 4d560b0cf4e6cb253e25ed375fc75dd1d1d27587[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:09:38 2022 +0900
+
+    테스트시에 SQL콘솔출력 켜기, articleService.modify 구현
+
+[33mcommit 8f1d15f350345b5d4755e415d337c5945aef63d3[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:52:05 2022 +0900
+
+    modify 테스트 케이스 추가
+
+[33mcommit 8fb6e5e98b3cfbaf4641ae8ca0b3227080f60509[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:47:39 2022 +0900
+
+    각각의 테스트케이스들이 독립적인 환경에서 실행되는 것을 보장하기 위해 beforeEach 도입
+
+[33mcommit 1079720ae39dfd5c27631d841aff1001836111ec[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:37:58 2022 +0900
+
+    write 구현
+
+[33mcommit e0590e32f307844981cdd1ced64cc22eb2f4127f[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:18:37 2022 +0900
+
+    articleService.getArticlesCount() 구현
+
+[33mcommit ff5a0ac0c847362644520fd6bf8fb5506bb281c4[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:16:00 2022 +0900
+
+    articleService.getArticlesCount() 테스트케이스 추가
+
+[33mcommit 0e75b5a8838782a1524fe61f5d48dfa475997b64[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:10:05 2022 +0900
+
+    articleService.getArticleById 구현
+
+[33mcommit 3cfe7e6fef5715e187969509fb6b4e660dcbf92a[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:04:01 2022 +0900
+
+    getArticleById 테스트케이스 추가
+
+[33mcommit 6cac9f9d66e6246d0ca7634b89dbc6f6a1d1649b[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 15:56:15 2022 +0900
+
+    ArticleServiceTest 추가
+
+[33mcommit 5e18c9b4baa893795110d7c9a51d25088e4c8856[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 10:32:07 2022 +0900
+
+    세팅
