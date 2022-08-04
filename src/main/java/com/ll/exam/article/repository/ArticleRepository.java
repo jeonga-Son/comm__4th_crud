@@ -30,4 +30,6 @@ public class ArticleRepository {
                 .append("WHERE id = ?", id);
         return sql.selectRow(ArticleDto.class);
     }
+
+
 }
