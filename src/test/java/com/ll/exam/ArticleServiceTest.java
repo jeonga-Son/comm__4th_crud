@@ -168,4 +168,22 @@ public class ArticleServiceTest {
 
         assertThat(nullArticleDto).isNull();
     }
+
+    @Test
+    public void _2번글의_다음글은_3번글이다() {
+
+        ArticleDto id3ArticleDto = articleService.getNextArticle(2);
+
+        assertThat(id3ArticleDto.getId()).isEqualTo(3);
+    }
+
+    @Test
+    public void _마지막글의_다음글은_없다() {
+
+        long lastArticleId = TEST_DATA_SIZE;
+
+        ArticleDto lastArticleDto = articleService.getNextArticle(lastArticleId);
+
+        assertThat(lastArticleDto).isNull();
+    }
 }
