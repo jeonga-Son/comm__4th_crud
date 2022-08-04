@@ -21,5 +21,7 @@ public class ArticleService {
     }
 
 
-
+    public long getArticlesCount() {
+        return articleRepository.getArticlesCount();
+    }
 }

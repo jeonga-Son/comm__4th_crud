@@ -42,6 +42,7 @@ public class ArticleServiceTest {
     @Test
     public void getArticlesCount() {
         ArticleService articleService = Container.getObj(ArticleService.class);
+        // selectLong 메서드 이용.
         long articlesCount = articleService.getArticlesCount();
 
         assertThat(articlesCount).isEqualTo(3);
