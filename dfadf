@@ -1,0 +1,185 @@
+[33mcommit e679479c746ce409f32c66625320274d58b5a785[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Mon Aug 8 09:09:30 2022 +0900
+
+    에러
+
+[33mcommit 41a35e3c3de4de72e12882606ffaf063f70408b8[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Sun Aug 7 19:11:36 2022 +0900
+
+    공개되어도 괜찮은 db 비번으로 변경
+
+[33mcommit 4556b71d85b1fa46b4ddceaa3f7e4713a6754181[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Sun Aug 7 18:31:16 2022 +0900
+
+    운영용 db 접속정보 추가, 톰캣7메이븐플러그인 배포 설정
+
+[33mcommit f0d2d079054a58d318332d6118ef768bbcbe4c79[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Fri Aug 5 11:27:02 2022 +0900
+
+    게시물 본문 하단에 게시물 목록 노출
+
+[33mcommit 6252b9f554e9de3261a166202affcd3793a8468b[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Fri Aug 5 11:17:49 2022 +0900
+
+    이전글, 다음글
+
+[33mcommit 4c41ca45076828f34c9fb830e0f821cb618d43ce[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Fri Aug 5 11:06:57 2022 +0900
+
+    게시물 수정
+
+[33mcommit 5c4831a22a375df6f902d7a3dafd125f35274c8d[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Fri Aug 5 10:45:14 2022 +0900
+
+    글 삭제
+
+[33mcommit fc4e4711d2017593e5b05fc9b21f656fcac04948[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Fri Aug 5 10:33:58 2022 +0900
+
+    본문에 수정, 삭제 버튼 추가
+
+[33mcommit 52b14e51fa63a1661c7458a160ff94fd6ac7a447[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Fri Aug 5 10:27:17 2022 +0900
+
+    리스트 꾸미기
+
+[33mcommit ddbf40067280bf2c8c6254682954fd2f4a95c829[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Fri Aug 5 09:31:42 2022 +0900
+
+    라이브러리를 head가 아닌 body에서 로딩함으로써, 에디터관련 오류 해결
+
+[33mcommit bbe7ab87cfed1a542c5a0da07612a2a84f8cf651[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 20:12:05 2022 +0900
+
+    게시물 본문에 토스트 에디터 뷰어 적용
+
+[33mcommit cc143a974c57824070e1607a77cf5d0298cec07f[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 20:02:57 2022 +0900
+
+    작성폼에 토스트UI 에디터 붙이기
+
+[33mcommit 5188be0898d1027e3abfe09665fb1b0ab74dabb7[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 18:53:45 2022 +0900
+
+    상세페이지 구현, 리스트페이지에 링크
+
+[33mcommit 77730febdcb5bc6e03677e7204ca08f1b6641eaf[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 18:30:58 2022 +0900
+
+    등록 처리
+
+[33mcommit 1f950ab290a765a4acaba65d1d7f5c1cca6765bf[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 18:21:12 2022 +0900
+
+    작성 폼
+
+[33mcommit 27f23b9d8e1e1630f174f652c5624a8bb02434f4[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 18:01:43 2022 +0900
+
+    게시물 리스트 구현
+
+[33mcommit e0bc12c0238734b7b25969e4f11100710f19a8ec[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:49:44 2022 +0900
+
+    이전글, 다음글에서 블라인드 된 글 거르기
+
+[33mcommit 7b7b0c67fae3d6c9b5d25f97dfad04704283c582[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:44:01 2022 +0900
+
+    다음글 테스트케이스 추가 및 구현
+
+[33mcommit 30d1968622c476ded2d2d81bfd22eea64a749ff1[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:34:18 2022 +0900
+
+    이전글 테스트케이스 추가 및 구현
+
+[33mcommit ebc5eec3246f4c5402d19e4a14c68ff40638650b[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:24:11 2022 +0900
+
+    myMap와 articleService를 인스턴스 변수로, TEST_DATA_SIZE 도입
+
+[33mcommit 36405fd43cc9ab8a4721121da687c21dda42bfae[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:13:56 2022 +0900
+
+    articleService.delete 구현
+
+[33mcommit 4d560b0cf4e6cb253e25ed375fc75dd1d1d27587[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 17:09:38 2022 +0900
+
+    테스트시에 SQL콘솔출력 켜기, articleService.modify 구현
+
+[33mcommit 8f1d15f350345b5d4755e415d337c5945aef63d3[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:52:05 2022 +0900
+
+    modify 테스트 케이스 추가
+
+[33mcommit 8fb6e5e98b3cfbaf4641ae8ca0b3227080f60509[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:47:39 2022 +0900
+
+    각각의 테스트케이스들이 독립적인 환경에서 실행되는 것을 보장하기 위해 beforeEach 도입
+
+[33mcommit 1079720ae39dfd5c27631d841aff1001836111ec[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:37:58 2022 +0900
+
+    write 구현
+
+[33mcommit e0590e32f307844981cdd1ced64cc22eb2f4127f[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:18:37 2022 +0900
+
+    articleService.getArticlesCount() 구현
+
+[33mcommit ff5a0ac0c847362644520fd6bf8fb5506bb281c4[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:16:00 2022 +0900
+
+    articleService.getArticlesCount() 테스트케이스 추가
+
+[33mcommit 0e75b5a8838782a1524fe61f5d48dfa475997b64[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:10:05 2022 +0900
+
+    articleService.getArticleById 구현
+
+[33mcommit 3cfe7e6fef5715e187969509fb6b4e660dcbf92a[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 16:04:01 2022 +0900
+
+    getArticleById 테스트케이스 추가
+
+[33mcommit 6cac9f9d66e6246d0ca7634b89dbc6f6a1d1649b[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 15:56:15 2022 +0900
+
+    ArticleServiceTest 추가
+
+[33mcommit 5e18c9b4baa893795110d7c9a51d25088e4c8856[m
+Author: jeonga-Son <jjeong0106@gmail.com>
+Date:   Thu Aug 4 10:32:07 2022 +0900
+
+    세팅
